@@ -102,8 +102,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:044690_0000_10213E9A55FCB920"/>
-            <pb facs="tcp:044690_0001_10213E93079F33D0" rendition="simple:additions"/>
+            <pb facs="unknown:044690_0000_10213E9A55FCB920"/>
+            <pb facs="unknown:044690_0001_10213E93079F33D0"
+                rendition="simple:additions"/>
             <p>THE GOLDEN AGE: OR, FUTURE GLORY OF NORTH-AMERICA DISCOVERED BY AN ANGEL TO CELADON, IN SEVERAL ENTERTAINING VISIONS. VISION I.</p>
             <q>
                <l>—Ferrea</l>
@@ -120,8 +121,9 @@
             <p>PRINTED in the Year M,DCC,LXXXV.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:044690_0002_10213E806E56E270" rendition="simple:additions"/>
-            <pb facs="tcp:044690_0003_10213E7DAA32B430"/>
+            <pb facs="unknown:044690_0002_10213E806E56E270"
+                rendition="simple:additions"/>
+            <pb facs="unknown:044690_0003_10213E7DAA32B430"/>
             <head>TO THE READER.</head>
             <p>IT is thought proper for certain reaſons, to publiſh theſe VISIONS of the pious CELADON in ſeparate pieces.—Should this firſt one meet with ſuitable encouragement, the others may appear in due time.—If not, they muſt lie in darkneſs, and be buried in oblivion.</p>
             <closer>
@@ -131,7 +133,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:044690_0004_10213E85C12DB648"/>
+            <pb facs="unknown:044690_0004_10213E85C12DB648"/>
             <head>THE GOLDEN AGE, <hi>&amp;c.</hi>
             </head>
             <p>IN one of our American States, lives the retired and devout Celadon. A man ſtrictly honeſt, and a real lover of his country. That ſuch is his true character, appears by the whole tenor of his conduct for ſeveral years paſt.</p>
@@ -140,7 +142,7 @@
             <p>Often muſing on this delightful ſubject, he was at laſt in<g ref="char:EOLhyphen"/>dulged with an agreeable viſion, which gave him the greateſt ſatisfaction. This, as related by himſelf, is faithfully recorded in the following pages.</p>
             <p>Having walked out on a ſummer's evening, and grown weary, I ſat down on the verdant bank of a neighbouring ſtream, leaning againſt a tree, whoſe ſpreading branches ſhel<g ref="char:EOLhyphen"/>tered me from the ſolar blaze. In this eaſy poſture, I was awhile delighted with the muſic of the groves. The mur<g ref="char:EOLhyphen"/>muring waters below, and chirping birds,—together with the ſighing gales above, ſoothed my imagination, and by degrees, lulled every ungrateful care to reſt; 'till, in ſhort, I fell into a kind of drowſy trance.</p>
             <p>Whilſt thus diſſolved in ſlumberous indolence, lo, to my apprehenſion, a wondrous form darting from the ſky ſwift as
-<pb n="6" facs="tcp:044690_0005_10213E8747D59D80"/>
+<pb n="6" facs="unknown:044690_0005_10213E8747D59D80"/>
 the lightning's flaſh, ſtood before me.—His countenance ſparkled like the morning-ſtar: And his robes outſhone the glowing brilliancy of the rainbow. All nature ſeemed to ſmile at his approach.—The hills and vales rejoiced together; and the trees of the wood clapped their hands.—I indeed, was at firſt ſmitten with a trembling awe, as in the preſence of ſo ſuperior a being. But perceiving an ineffable ſweetneſs in his looks, and nothing vindictive in his aſpect; this at length recovered my dejected ſpirit—ſo that I ventured to accoſt him with words to this effect; and was kindly an<g ref="char:EOLhyphen"/>ſwered as in the ſequel.</p>
             <sp>
                <speaker>Celadon.</speaker>
@@ -163,7 +165,7 @@ the lightning's flaſh, ſtood before me.—His countenance ſparkled like the m
                <p>What you have now ſaid, might be ſufficient was it diſputable before, to convince the whole world, that America was very right in caſting off the Britiſh yoke.</p>
             </sp>
             <sp>
-               <pb n="7" facs="tcp:044690_0006_10213E88D990A1C8"/>
+               <pb n="7" facs="unknown:044690_0006_10213E88D990A1C8"/>
                <speaker>Angel.</speaker>
                <p>Her ſo doing was in every view, a moſt equitable tranſaction.—That once flouriſhing kingdom, having reached the zenith of temporal grandeur, has been ſeveral years on the decline.—Britain was once indeed, a land of patriots and heroes. But now alas! The majority of her ſons are lament<g ref="char:EOLhyphen"/>ably degenerated. In days of old, what zealous advocates for freedom were they!—The very name of bondage made the whole nation ſtart, as at the ſight of an infernal ghoſt!— But of late they ſeem determined as by ſome ſtrange fatality, to introduce an arbitrary and deſpotic government—a ſub<g ref="char:EOLhyphen"/>miſſion to which, is the reproach of reaſon, and a ſcandal to humanity. It was therefore, the indiſpenſable duty of theſe States to reſolve on an entire ſeparation; as from a family deeply infected with the plague. Even the law of ſelf-pre<g ref="char:EOLhyphen"/>ſervation required it.</p>
             </sp>
@@ -180,7 +182,7 @@ the lightning's flaſh, ſtood before me.—His countenance ſparkled like the m
             <sp>
                <speaker>Celadon.</speaker>
                <p>Yet ſhould ſome foreign power, caſt an avarici<g ref="char:EOLhyphen"/>ous eye on our fertile fields, and blooming foreſts, how could
-<pb n="8" facs="tcp:044690_0007_10213E6691F93628"/>
+<pb n="8" facs="unknown:044690_0007_10213E6691F93628"/>
 we repel the encroachment? Should they invade our territo<g ref="char:EOLhyphen"/>ries in their infancy, and before our conſtitution is well ſet<g ref="char:EOLhyphen"/>tled, might we not be reduced to the baſeſt vaſſalage after all?—A burnt child dreads even the moſt diſtant thought of fire!</p>
             </sp>
             <sp>
@@ -198,7 +200,7 @@ we repel the encroachment? Should they invade our territo<g ref="char:EOLhyphen"
             <sp>
                <speaker>Celadon.</speaker>
                <p>Should this be our propitious lot, we ſhall pro<g ref="char:EOLhyphen"/>bably increaſe in number very faſt. Which will by conſe<g ref="char:EOLhyphen"/>quence, augment our warlike force<g ref="char:punc">▪</g> and be a continual ad<g ref="char:EOLhyphen"/>dition
-<pb n="9" facs="tcp:044690_0008_10213E8A5C1C3678"/>
+<pb n="9" facs="unknown:044690_0008_10213E8A5C1C3678"/>
 to our national ſtrength. So that by a long courſe of proſperity, we may become as the ſand on the ſea ſhore for multitude.</p>
             </sp>
             <sp>
@@ -220,7 +222,7 @@ to our national ſtrength. So that by a long courſe of proſperity, we may beco
             <sp>
                <speaker>Angel.</speaker>
                <p>You may be aſſured of it.—Why this paroxiſm of admiration? Your progenitors, the now refined Britons, were formerly as wild Pagans, as rank Idolaters, and as averſe to embracing the goſpel as the Indians now are.— Remember, it is God's work to convert men. Divine power
-<pb n="10" facs="tcp:044690_0009_10213E6F0F319A48"/>
+<pb n="10" facs="unknown:044690_0009_10213E6F0F319A48"/>
 can do every thing.—And time may produce yet greater won<g ref="char:EOLhyphen"/>ders. Every operation is alike eaſy to omnipotence.</p>
             </sp>
             <sp>
@@ -235,7 +237,7 @@ can do every thing.—And time may produce yet greater won<g ref="char:EOLhyphen
             <p>Then the Angel waſhed my eyes with a cryſtaline elixir, which he carried in a pearly phial. Whereupon I found my viſive faculty amazingly ſtrengthened: So that I could diſ<g ref="char:EOLhyphen"/>tinctly view the whole continent from ſhore to ſhore.</p>
             <p>This done, he bid me turn to the eaſt. I did ſo. And looking from north to ſouth, what a grand and majeſtic proſpect was preſented to my ſight!</p>
             <p>Several ſpacious cities, and a great many thriving towns already founded.—What a thick conjunction of farms,
-<pb n="11" facs="tcp:044690_0010_10213E8D7B950958"/>
+<pb n="11" facs="unknown:044690_0010_10213E8D7B950958"/>
 plantations, gardens, orchards, vineyards, &amp;c. laden with every kind of fruit!—How charmingly diverſified with lofty hills, and flowery dales! Extenſive foreſts, and ſhady groves! How plentifully watered with living fountains, purling rills, and navigable rivers throughout the whole; for fifteen hun<g ref="char:EOLhyphen"/>dred miles in length, and near a thouſand in breadth!—And what elegant buildings adapted to all the purpoſes of life, both civil and religious!—I ſtood, and gazed with pleaſing aſto<g ref="char:EOLhyphen"/>niſhment, till the Angel ordered me to turn my face weſtward. I obeyed, and was equally ſurpriſed at the wide extended landſcape.</p>
             <p>This weſtern part of America, is as yet but an uncultivated deſart; the haunt of ſavages; and range of wild beaſts.—But the ſoil in general is much richer than that of the eaſtern divi<g ref="char:EOLhyphen"/>ſion. The rivers too, are larger, and flow in greater numbers. The mountains indeed are numerous, and very high: Yet between them lie exceeding wide and level vallies; and to ap<g ref="char:EOLhyphen"/>pearance fertile as the plains of Shinar, which they ſay, uſed to yield an hundred fold. I alſo perceived, that the ſettled part of our continent, is really but a little ſpot in compariſon of the vaſt regions to whitemen as yet unknown.</p>
             <p>Upon the whole, loſt in wonder I could not avoid falling into this agreeable reflection, whilſt ſurveying a beauteous world riſing out of a dreary wilderneſs.</p>
@@ -243,7 +245,7 @@ plantations, gardens, orchards, vineyards, &amp;c. laden with every kind of frui
                <q>It is as yet, ſcarce three hundred years ſince this quarter of the globe was firſt diſcovered by the European nations. Nor is above one hundred years elapſed, ſince any conſider<g ref="char:EOLhyphen"/>able improvements have been made in this northern conti<g ref="char:EOLhyphen"/>nent. Yet at this day it contains by computation, at leaſt three millions of Chriſtain inhabitants; beſide the heatheniſh tribes. Of whom there is perhaps, a much greater number than are yet regiſtered in our accounts of thoſe formidable warriors.—How rapid muſt have been the growth of my native country! When in that ſhort ſpace of time, it has ariſen to ſuch a degree of wealth and grandeur, as to be able not only to cope with, but to bid defiance to Great-Britain itſelf. A power, which for ages paſt, was renowned for military proweſs; and famous for victory and triumph.— Bleſſed art thou O America! Thou ſhalt both do great things, and ſhalt ſtill prevail!</q>
             </p>
             <p>How long I might have remained in this contemplative rap<g ref="char:EOLhyphen"/>ture I cannot tell, had not the Angel recalled my attention by
-<pb n="12" facs="tcp:044690_0011_10213E91802742C8"/>
+<pb n="12" facs="unknown:044690_0011_10213E91802742C8"/>
 a gentle touch on my ſide, and pointing his finger a little to the ſouth-weſt, Celadon, ſays he, do you ſee yonder long valley.—How full of the choiceſt timber! What fine ſprings it contains! And how many perennial rivers glide through it, at ſuitable diſtances!—That whole region you may call Savagenia: It being deſigned for the future habitation of your now troubleſome Indians.—And that other valley; it is you may notice, as well wooded, and watered, and every way furniſhed with all the preparative accommodations for human life, as the firſt I ſhewed you. It lies toward the north-weſt; and enjoys of the two, the cleareſt air; and by conſequence, will prove the healthieſt climate.—This you may call Nigrania: It being allotted for the Negroes to dwell there, when the term of their vaſſalage is come to a period.—And in all thoſe vaſt ſpaces weſtward to the great ocean, there may be ſeats here<g ref="char:EOLhyphen"/>after for ſundry foreign nations.—There may be a French, a Spaniſh, a Dutch, an Iriſh, an Engliſh, &amp;c. yea, a Jewiſh State here in proceſs of time.—And all of them united in bro<g ref="char:EOLhyphen"/>therly affection, will at laſt form the moſt potent empire on the face of the earth.</p>
             <sp>
                <speaker>Celadon.</speaker>
@@ -258,7 +260,7 @@ a gentle touch on my ſide, and pointing his finger a little to the ſouth-weſt
                <p>And will this now rejected people ever em<g ref="char:EOLhyphen"/>brace the goſpel, and profeſs the Chriſtian religion?</p>
             </sp>
             <sp>
-               <pb n="13" facs="tcp:044690_0012_10213E7396C59700"/>
+               <pb n="13" facs="unknown:044690_0012_10213E7396C59700"/>
                <speaker>Angel.</speaker>
                <p>Yes. When the full era of their derelicton is ac<g ref="char:EOLhyphen"/>compliſhed, they ſhall do ſo.—Grown weary of waiting for their Meſſiah, and convinced at length that he is already come, they will humbly acknowlege their once crucified King, heartily bow to his ſceptre; and ſerve him with a fervency, that will excite even Pagans to emulation; and be a ſhame to you Chriſtains: Who though in general you are very zealous for the ſeveral forms, are many of you, utter ſtrangers, and ſome of you open enemies to the power of Godlineſs.—In one word, they will tranſcend you in all the beauties of holineſs, far as the ſtar of evening outſhines the languid conſtellations of the milky-way. Inſomuch, that the real children of God in thoſe days, will be ſurpriſed at their own former lukewarmneſs in the awful concerns of another world.</p>
             </sp>
@@ -271,7 +273,7 @@ a gentle touch on my ſide, and pointing his finger a little to the ſouth-weſt
                <p>You are not miſtaken. The converſion of the Jews, will be as life from the dead to the Gentile church.—It will greatly animate and revive true believers themſelves.—It will awaken many formal profeſſors to righteouſneſs.—And will alſo, ſtartle and alarm multitudes of ſtupid wretches, who had long ſlumbered in carnal ſecurity, even under the ſound of the goſpel.—In ſhort; it will be nothing leſs than the com<g ref="char:EOLhyphen"/>mencement of that ſtupendous work, which your divines juſtly denominate, the glory of the latter days.—This is that moſt illuſtrious operation of ſovereign mercy, for which you have heard ſeveral pious miniſters ſo often pray: And of which they ſpeak in ſuch high and lofty ſtrains.—In America God has determined to begin his laſt and greateſt wonders among mankind.—And in the weſt ſhall that propitious cloud ariſe, whoſe ſalutary ſhower will in the end refreſh, and in an evangelical ſenſe fructify the whole continent.—It will water the Jewiſh ſtate firſt; and in progreſſion, borne as on the wings of the wind, viſit all the reſt, until the whole wil<g ref="char:EOLhyphen"/>derneſs is gladdened by the nectareous drops, and the deſert is made to rejoice, and bloſſom as the roſe.—It ſhall bloſſom abundantly, and rejoice even with joy and ſinging.</p>
             </sp>
             <sp>
-               <pb n="14" facs="tcp:044690_0013_10213E6205D076E0"/>
+               <pb n="14" facs="unknown:044690_0013_10213E6205D076E0"/>
                <speaker>Celadon.</speaker>
                <p>And is this gracious viſitation to be limited only to our American ſhores; and muſt it reach no farther than our weſtern coaſts?</p>
             </sp>
@@ -291,14 +293,14 @@ a gentle touch on my ſide, and pointing his finger a little to the ſouth-weſt
             <sp>
                <speaker>Celadon.</speaker>
                <p>Forgive the temerity of a wretched mortal! We are prone to ſearch into future contingencies: and apt to ſeek forbidden knowledge.—But may I not<g ref="char:punc">▪</g> Divine Prophet!
-<pb n="15" facs="tcp:044690_0014_10213E7951FFD578"/>
+<pb n="15" facs="unknown:044690_0014_10213E7951FFD578"/>
 May I not be permitted to aſk, by what method this wonder<g ref="char:EOLhyphen"/>ful change ſhall be introduced among us, and by what means it will be effected?—Who is meant by the Angel you ſpoke of? And what is ſignified by the ſounding of his trumpet? In what ſenſe the kingdoms of this world muſt become the property of Chriſt more than they at preſent are; or have ever yet been? And how long that delectable ſeaſon ſhall continue after it is once begun?—What unutterable ſatisfac<g ref="char:EOLhyphen"/>tion would it afford all the ſincere votaries of religion, to hear you deſcribe the nature, the manner, the latitude, the extent and the duration of that charming viciſſitude of Divine Provi<g ref="char:EOLhyphen"/>dence? We would liſten to the pleaſing narrative with exulta<g ref="char:EOLhyphen"/>tion! With tranſport! With raviſhment!—If permitted, pray indulge an unworthy inquirer with a more particular delineation of that very grand and momentous diſpenſation. —Long have I waited for inſtruction relating to theſe weighty points; but am at laſt, out of hope of receiving information from any uninſpired man, even the predictions recorded in the ſcriptures, with reference to ſuch extraordinary events, are covered with much darkneſs. And our beſt expoſitors greatly differ in opinion concerning them. For which reaſon, it is impoſſible to draw any certain and determinate concluſion from their diſquiſitions. All, all ſeems to be but probable conjecture at moſt. Whereas, the document of an angelic teacher, might be relied on with the firmeſt belief, and truſt<g ref="char:EOLhyphen"/>ed in with indubitable dependence.</p>
             </sp>
             <sp>
                <speaker>Angel.</speaker>
                <p>You have I find a great many queſtions to aſk. And a degree of knowledge in regard to ſeveral particulars you mention, might perhaps, prove to your future advantage; and I could willingly gratify your inquiſitive humour for as it innocent; but at preſent am not allowed to proceed. Pro<g ref="char:EOLhyphen"/>vided you make a proper improvement of what has been already revealed, you may be favored with another interview hereafter, When farther diſcoveries may be granted accord<g ref="char:EOLhyphen"/>ing to your deſire.—In the mean while, be careful to practiſe what you know.—Be faithful.—Be watchful.—Be deligent.— Be courageous.—Be thankful.—And finally, you may reſt aſ<g ref="char:EOLhyphen"/>ſured, that however the wheel of fate may turn and whatever changes may happen in the world, it ſhall always go well with the righteous. They ſhall ſtand in their lot, and a happy lot it is, and ſhall be through all the revolutions of time, and beyond it to eternal ages.</p>
                <p>
-                  <pb n="16" facs="tcp:044690_0015_10213E949BB283E0"/>Here my celeſtial viſitant pauſed for a little while, and ſeem<g ref="char:EOLhyphen"/>ed like one loſt in deep meditation. Then bounding from the earth, in the twinkling of an eye mingled with the blue ether. And I ſaw him at that time no more.</p>
+                  <pb n="16" facs="unknown:044690_0015_10213E949BB283E0"/>Here my celeſtial viſitant pauſed for a little while, and ſeem<g ref="char:EOLhyphen"/>ed like one loſt in deep meditation. Then bounding from the earth, in the twinkling of an eye mingled with the blue ether. And I ſaw him at that time no more.</p>
                <p>Startled at the ſuddeneſs of his departure, I awoke; and found myſelf in the place, and poſture aforeſaid.—The ſun was by this time gone down, and night had drawn her ſtarry curtain over the proſtrate world. I aroſe, and greatly delight<g ref="char:EOLhyphen"/>ed with what I had ſeen and heard, walked ſoftly home to my dwelling.</p>
             </sp>
             <trailer>FINIS.</trailer>
